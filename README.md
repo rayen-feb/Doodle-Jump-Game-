@@ -1,6 +1,3 @@
-
-![giphy](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/48b2ace4-dbfb-4726-9369-e98c480ff85c)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Doddle+jump+game++;what+are+you+waiting+for+" alt="Typing SVG" /></a>
 # 🎮 Doodle Jump Game in C++ 🚀
 
@@ -34,3 +31,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📜 License
 This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) for more details.
+
+![giphy](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/48b2ace4-dbfb-4726-9369-e98c480ff85c)
+
+
