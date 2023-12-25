@@ -1,11 +1,12 @@
 
-![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/9240fe02-3428-48dc-89f0-19c1649fbb99)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Doddle+jump+game++;what+are+you+waiting+for+" alt="Typing SVG" /></a>
 # 🎮 Doodle Jump Game in C++ 🚀
 
 ## 📝 Description
 This is a simple implementation of the Doodle Jump game using the SFML library in C++. In this game, players guide a cute four-legged creature called "The Doodler" 🐾 up an endless series of platforms without falling. 
+![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/974b327d-026e-4f01-9f61-ffb86f56ad9a)
 
 
 ## 🛠️ Installation
@@ -13,7 +14,6 @@ This is a simple implementation of the Doodle Jump game using the SFML library i
 2. Navigate to the project directory: `cd doodlejump`
 3. Install the required dependencies: `npm install` (or the equivalent command for your environment)
 
-![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/146b1fb2-dcbc-4d0b-8882-b493feb2e405)
 
 
 ## 🕹️ How to Play
@@ -23,6 +23,8 @@ This is a simple implementation of the Doodle Jump game using the SFML library i
 - Avoid or eliminate enemies. 👾
 
 ## 🌟 Features
+![200w](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/b94cbf19-e948-46d0-a017-ccaf1b1f348c)
+
 - Endless gameplay: The game only ends when you fall, jump into a monster, get sucked into a black hole, or are abducted by a UFO. 🛸
 - High score tracking: Can you beat your best score? 🏆
 
