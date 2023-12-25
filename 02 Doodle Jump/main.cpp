@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include <time.h>
 using namespace sf;
-using namespace sf;
+
 struct point
 { int x,y;};
 
