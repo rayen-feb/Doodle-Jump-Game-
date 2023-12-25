@@ -6,7 +6,8 @@
 # 🎮 Doodle Jump Game in C++ 🚀
 
 ## 📝 Description
-This is a simple implementation of the Doodle Jump game using the SFML library in C++. In this game, players guide a cute four-legged creature called "The Doodler" 🐾 up an endless series of platforms without falling. 
+ - This is a simple implementation of the Doodle Jump game using the SFML library in C++.
+ - In this game, players guide a cute four-legged creature called "The Doodler" 🐾 up an endless series of platforms without falling. 
 ![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/974b327d-026e-4f01-9f61-ffb86f56ad9a)
 
 
