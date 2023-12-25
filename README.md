@@ -1,10 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Doddle+jump+game++;what+are+you+waiting+for+" alt="Typing SVG" /></a>
+![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/974b327d-026e-4f01-9f61-ffb86f56ad9a)
 # 🎮 Doodle Jump Game in C++ 🚀
 
 ## 📝 Description
  - This is a simple implementation of the Doodle Jump game using the SFML library in C++.
  - In this game, players guide a cute four-legged creature called "The Doodler" 🐾 up an endless series of platforms without falling. 
-![200](https://github.com/rayen-feb/Doodle-Jump-Game-/assets/131598929/974b327d-026e-4f01-9f61-ffb86f56ad9a)
+
 
 
 ## 🛠️ Installation
