@@ -13,9 +13,9 @@ int main()
     app.setFramerateLimit(60);  //  set the frame 60 
 
     Texture t1,t2,t3; 
-    t1.loadFromFile("images/background.png");
-    t2.loadFromFile("images/platform.png");
-    t3.loadFromFile("images/doodle.png");
+    t1.loadFromFile("images/background.png");///////////////////////
+    t2.loadFromFile("images/platform.png");/////////////////////////////
+    t3.loadFromFile("images/doodle.png");////////////////////////
 
     Sprite sBackground(t1), sPlat(t2), sPers(t3);
 
