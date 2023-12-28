@@ -13,13 +13,13 @@ int main()
 {
     srand(time(0));
 
-    RenderWindow app(VideoMode(400, 533), "Doodle Game!");
-    app.setFramerateLimit(60);
+    RenderWindow app(VideoMode(400, 533), "Doodle Game!");// name windo = doodle jump  ; resolution 44**533 
+    app.setFramerateLimit(60);  //  set the frame 60 
 
-    Texture t1,t2,t3;
-    t1.loadFromFile("images/background.png");
-    t2.loadFromFile("images/platform.png");
-    t3.loadFromFile("images/doodle.png");
+    Texture t1,t2,t3; 
+    t1.loadFromFile("images/background.png");///////////////////////
+    t2.loadFromFile("images/platform.png");/////////////////////////////
+    t3.loadFromFile("images/doodle.png");////////////////////////
 
     Sprite sBackground(t1), sPlat(t2), sPers(t3);
 
