@@ -1,11 +1,37 @@
-  GNU nano 6.4                                                                                                                                                                                                                                                                                                                                                                                                                                                                         main.cpp *                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  GNU nano 6.4                                                                                                                                                                                                                                                                                                                                                                                                                                                                         main.cpp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+#include"affichage.h"
+#include <SFML/Graphics.hpp>
+#include <time.h>
+#include <stdlib.h>
+#include <stdio.h>
+
+
+
+using namespace sf;
+
+struct point
+{ int x,y;};
+
+int main()
+{
+    srand(time(0));
+
+    RenderWindow app(VideoMode(400, 533), "Doodle Game!");
+    app.setFramerateLimit(60);
+
+    Texture t1,t2,t3;
+    t1.loadFromFile("images/background.png");
+    t2.loadFromFile("images/platform.png");
+    t3.loadFromFile("images/doodle.png");
+
+    Sprite sBackground(t1), sPlat(t2), sPers(t3);
 
     point plat[20];
      int j,j1 ; 
     //  posiont des plateformes 
 
   
-  gameOver();
+
   for (int i=0;i<10;i++)
 
      {
@@ -29,7 +55,6 @@ int temp1 = rand() % 342;  // 342 = 400 -68
         if(j == i) {
             plat[i].x = temp;
             i++;}
-
         
 
         
@@ -61,7 +86,7 @@ int temp1 = rand() % 342;  // 342 = 400 -68
 
    //  reglage de position de  plateform 
 
-    if (y>500)   dy=-10;  //   condition lorsque  preso touche le ground  ( dy  controle la vitesse de saut ) ; 
+    if (y>500){ dy=-10;}  //   condition lorsque  preso touche le ground  ( dy  controle la vitesse de saut ) ; 
              // ajouter une  popup  game over
               //  faire revenir au menu prinicpale   
 
@@ -96,6 +121,11 @@ int temp1 = rand() % 342;  // 342 = 400 -68
 
     return 0;
 }
+
+
+
+
+
 
 
 
